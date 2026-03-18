@@ -1,4 +1,5 @@
-📌 Overview
+'''
+**Overview
 '''
 This is a React-based dashboard application that allows users to search for GitHub profiles using the GitHub public API.
 The app displays user profiles with pagination, loading states, and error handling in a clean and responsive UI.
